@@ -1,0 +1,5 @@
+C:\Users\LUNTIKLAELITE\source\repos\wsr7\LengthLevensht\bin\Debug\LengthLevensht.dll
+C:\Users\LUNTIKLAELITE\source\repos\wsr7\LengthLevensht\bin\Debug\LengthLevensht.pdb
+C:\Users\LUNTIKLAELITE\source\repos\wsr7\LengthLevensht\obj\Debug\LengthLevensht.csproj.CoreCompileInputs.cache
+C:\Users\LUNTIKLAELITE\source\repos\wsr7\LengthLevensht\obj\Debug\LengthLevensht.dll
+C:\Users\LUNTIKLAELITE\source\repos\wsr7\LengthLevensht\obj\Debug\LengthLevensht.pdb
